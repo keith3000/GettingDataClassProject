@@ -1,7 +1,7 @@
 ## Getting and Cleaning Data project 
 ## by Keith Bowers 
 ## year 2015
-##
+
 
 ## Approach is to create a tidy data set by compiling the training and testing data sets 
 ## into two complete tidy data sets then combining to make one completed tiday dat set.
