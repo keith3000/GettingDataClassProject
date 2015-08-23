@@ -1,4 +1,4 @@
-#### Getting and Cleaning Data project 
+# Getting and Cleaning Data project 
 ## by Keith Bowers 
 ## August 2015
 
